@@ -1,8 +1,20 @@
 # Netflix Content Analysis: An Exploratory Study Using Power BI
 
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Dataset Description](#dataset-description)
+- [Data Source](#data-source)
+- [Tools and Methodology](#tools-and-methodology)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Data Analysis and Insights](#data-analysis-and-insights)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 Netflix is one of the largest streaming platforms, offering various movies, TV shows, and documentaries across different genres. However, understanding the trends in content distribution, genre popularity, and audience preferences is crucial for both content creators and business strategists.
 This project aims to analyze Netflix’s content catalog using Power BI, providing insights into content trends, geographical distribution, and audience preferences. The findings can help businesses, media analysts, and streaming platforms understand market patterns and improve content recommendations.
+
+![Netflix Dashboard Screenshot](https://github.com/user-attachments/assets/35529bc0-c5c7-4cc0-9a9b-36ee304fae66)
 
 ### Objectives
 The primary objectives of this analysis include:
@@ -49,3 +61,22 @@ The following KPIs were analyzed:
 - Content Growth: Trends in Netflix content releases over time.
 - Geographical Analysis: Top countries producing Netflix content.
 - Audience Classification: Most common content ratings.
+
+### Data Analysis and Insights
+The Power BI dashboard provides key insights into Netflix’s content library. Notable findings include:
+
+- Content Type Distribution: Movies (68%) dominate over TV Shows (32%).
+- Top Genres: The leading genres are Documentaries, Stand-up Comedy, and Dramas.
+- Geographical Distribution: The United States is the largest content producer, followed by India and the UK.
+- Content Growth Over Time: A significant increase in content production post-2000.
+-  Popular Ratings: The most frequent ratings are TV-MA (Mature Audience) and TV-14 (Teen Audiences).
+
+### Recommendations
+Based on the insights obtained, the following strategic recommendations can be made:
+
+- Diversification of Content: Netflix should focus on expanding family-friendly genres to attract a wider audience, including children and parents.
+
+- Localized Content Production: Increasing investment in content from underrepresented regions (e.g., Africa, Southeast Asia) can enhance global appeal and subscriber growth.
+
+- Content Strategy Optimization: By capitalizing on high-performing genres (e.g., Documentaries, Dramas) and understanding audience ratings trends, Netflix can improve content recommendations and boost user engagement.
+
