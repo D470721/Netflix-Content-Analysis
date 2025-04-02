@@ -1,4 +1,4 @@
-# Netflix Content Analysis: An Exploratory Study Using Power BI
+# Netflix Content Analysis: An Exploratory Study Using Microsoft Power BI
 
 ### Table of Contents
 - [Project Overview](#project-overview)
